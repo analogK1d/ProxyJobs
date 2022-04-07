@@ -18,6 +18,7 @@ ideally will also be offered as an Android app.
 - The application's main interface will be map based
 - The map will be interactive offering the ability to annotate and highlight areas where potential jobs/candidates occur.
 - Job/Candidate searches will be reflected on the map.
+- System will automatically import job offerings from other sources (through publicly available APIs)
 
 
 
